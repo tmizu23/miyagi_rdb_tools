@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/miyagi_rdb_tools" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
